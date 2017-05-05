@@ -1,1 +1,17 @@
-placeholder
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Servers</title>
+        <link href="../css/main.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+		<div class="topnav" id="topNav">
+			<a href="../index.html">Home</a>
+			<a href="news">News</a>
+			<a href="#">Servers</a>
+			<a href="discord">Discord</a>
+			<a class="language">PLACEHOLDER</a>
+		</div>
+    </body>
+</html>
