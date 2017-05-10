@@ -5,8 +5,8 @@
         <title>News</title>
         <link href="../css/main.css" rel="stylesheet" type="text/css">
     </head>
-	<div class="wrapper">
-	    <body>
+    <body>
+		<div class="wrapper">
 			<div class="topnav" id="topNav">
 				<a href="../index.html">Home</a>
 				<a href="#">News</a>
@@ -14,6 +14,6 @@
 				<a href="discord">Discord</a>
 				<a class="language">PLACEHOLDER</a>
 			</div>
-	    </body>
-	</div>
+		</div>
+    </body>
 </html>
