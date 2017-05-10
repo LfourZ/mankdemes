@@ -76,26 +76,26 @@ body {
 	text-align: right;
 }
 
-.discordinfo {
-	min-width: 70%;
-	min-height: 200px;
-	background-color: #00ff00;
-	float: left;
+@media screen and (max-width: 1400px) {
+        .discordinfo {
+                min-width: 100%;
+                min-height: 200px;
+                background-color: #00ff00;
+                float: none;
+        }
+
+        .discord {
+                float: none;
+        }
 }
 
-@media screen and (max-width: 1400px) {
-	.discordinfo {
-		min-width: 100%;
-		min-height: 200px;
-		background-color: #00ff00;
-		float: none;
-	}
-
-	.discord {
-		float: none;
-	}
+.discordinfo {
+        min-width: 60%;
+        min-height: 200px;
+        background-color: #00ff00;
+        float: left;
 }
 
 .discord {
-	float: right;
+        float: right;
 }

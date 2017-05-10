@@ -17,7 +17,7 @@
 			<section class="discordinfo">
 				<h1>asd</h1>
 			</section>
-			<iframe class="discord" src="https://discordapp.com/widget?id=310013455715270656&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+			<iframe src="https://discordapp.com/widget?id=310013455715270656&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
 		</div>
 	</body>
 </html>
