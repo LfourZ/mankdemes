@@ -3,9 +3,11 @@ body {
 }
 
 .wrapper {
-	max-width: 900px;
+	max-width: 1200px;
 	margin-left: auto;
 	margin-right: auto;
+	padding-left: 100px;
+	padding-right: 100px;
 }
 
 #title {
@@ -18,10 +20,9 @@ body {
 .topnav {
     background-color: #130050;
     overflow: hidden;
-	margin-left: 100px;
-	margin-right: 100px;
 	max-height: 60px;
 	border-radius: 5px;
+	margin-bottom: 25px;
 }
 
 .topnav .language {
@@ -46,4 +47,31 @@ body {
 .topnav a.active {
     background-color: #1b0072;
     color: white;
+}
+
+.serverinfo {
+	min-height: 250px;
+	background-color: #ff0000;
+	margin-bottom: 25px;
+}
+
+.servers {
+	min-width: 66%;
+}
+
+.servers .serverbox {
+	min-height: 200px;
+	max-width: 66%;
+	background-color: #ff00ff;
+}
+
+.serverbox .servername {
+	width: 70%;
+	float: left;
+}
+
+.serverbox .ip {
+	width: 25%;
+	float: right;
+	text-align: right;
 }

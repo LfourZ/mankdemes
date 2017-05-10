@@ -5,13 +5,33 @@
         <title>Servers</title>
         <link href="../css/main.css" rel="stylesheet" type="text/css">
     </head>
-    <body>
-		<div class="topnav" id="topNav">
-			<a href="../index.html">Home</a>
-			<a href="news">News</a>
-			<a href="#">Servers</a>
-			<a href="discord">Discord</a>
-			<a class="language">PLACEHOLDER</a>
-		</div>
-    </body>
+	<div class="wrapper">
+	    <body>
+			<div class="topnav" id="topNav">
+				<a href="../index.html">Home</a>
+				<a href="news">News</a>
+				<a href="#">Servers</a>
+				<a href="discord">Discord</a>
+				<a class="language">PLACEHOLDER</a>
+			</div>
+			<div class="serverinfo">
+				<h3>Server Info</h3>
+				<p>Stuff and things concerning servers</p>
+			</div>
+			<div class="servers">
+				<!--
+				<section class="serverbox">
+					<h3 class="servername">Servername</h3>
+					<h3 class="ip">Ip</h3>
+					<p>Server description<p>
+				</section>
+				-->>
+				<section class="serverbox">
+					<h3 class="servername">Servername</h3>
+					<h3 class="ip">Ip</h3>
+					<p>Server description<p>
+				</section>
+			</div>
+	    </body>
+	</div>
 </html>

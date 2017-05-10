@@ -5,13 +5,15 @@
         <title>News</title>
         <link href="../css/main.css" rel="stylesheet" type="text/css">
     </head>
-    <body>
-		<div class="topnav" id="topNav">
-			<a href="../index.html">Home</a>
-			<a href="#">News</a>
-			<a href="servers">Servers</a>
-			<a href="discord">Discord</a>
-			<a class="language">PLACEHOLDER</a>
-		</div>
-    </body>
+	<div class="wrapper">
+	    <body>
+			<div class="topnav" id="topNav">
+				<a href="../index.html">Home</a>
+				<a href="#">News</a>
+				<a href="servers">Servers</a>
+				<a href="discord">Discord</a>
+				<a class="language">PLACEHOLDER</a>
+			</div>
+	    </body>
+	</div>
 </html>
