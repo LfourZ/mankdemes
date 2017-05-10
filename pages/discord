@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <title>Discord</title>
-        <link href="../css/main.css" rel="stylesheet" type="text/css">
-    </head>
-	<div class="wrapper">
-	    <body>
+	<head>
+		<meta charset="utf-8">
+		<title>Discord</title>
+		<link href="../css/main.css" rel="stylesheet" type="text/css">
+	</head>
+	<body>
+		<div class="wrapper">
 			<div class="topnav" id="topNav">
 				<a href="../index.html">Home</a>
 				<a href="news">News</a>
@@ -14,6 +14,6 @@
 				<a href="#">Discord</a>
 				<a class="language">PLACEHOLDER</a>
 			</div>
-	    </body>
-	</div>
+		</div>
+	</body>
 </html>
